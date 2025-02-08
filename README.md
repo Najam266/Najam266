@@ -8,7 +8,7 @@
 
 - 🌟 Dedicated to continuous learning and enhancing my skills. 
 
-- 💬 Ask me about **anything related to CS or related to my degree**
+- 💬 Ask me about **anything related to CS or related to my degree(Data Science)**
 
 
 <h3 align="left">Connect with me:</h3>
